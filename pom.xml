@@ -73,7 +73,7 @@
         <jackson.version>2.9.9</jackson.version>
         <jmh.version>1.21</jmh.version>
         <junit.version>4.13-beta-3</junit.version>
-        <log4j2.version>2.11.2</log4j2.version>
+        <log4j2.version>2.13.2</log4j2.version>
 
         <!-- plugin versions -->
         <build-helper-maven-plugin.version>3.0.0</build-helper-maven-plugin.version>
